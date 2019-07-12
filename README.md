@@ -1,4 +1,4 @@
-# Coding Challange #
+# Coding Challenge #
 Please organize, design, test, document and deploy your code as if it were going into production, then send us a link to the hosted repository (e.g. Github, Bitbucket...).
 
 ## Functional Specs - Product App ##
