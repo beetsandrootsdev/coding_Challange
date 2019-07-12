@@ -7,7 +7,7 @@ Prototype one of the following projects:
 ## Product App ##
 Create a single page web app which list all the products (mobile phones)  & allows to sort by category (brand wise). 
 
-Data Set: Use any openly avaibable data. 
+Data Set: Use any openly available data. 
 
 ## Technical spec ##
 The architecture will be split between a back-end and a web front-end, for instance providing a JSON in/out RESTful API. 
