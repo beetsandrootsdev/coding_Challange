@@ -30,6 +30,3 @@ Here are some technologies we are more familiar with:
 The front-end should ideally be a single page app . You may take this opportunity to demonstrate your React knowledge.
 
 The UX/UI is totally up to you. If you like, get creative and add additional features a user might find useful!
-
-## Host it! (optinal) ##
-When you’re done, host it somewhere (e.g. on Amazon EC2, Heroku, Google AppEngine, etc.)
