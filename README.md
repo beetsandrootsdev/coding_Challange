@@ -1,11 +1,8 @@
 # Coding Challange #
 Please organize, design, test, document and deploy your code as if it were going into production, then send us a link to the hosted repository (e.g. Github, Bitbucket...).
 
-## Functional spec ##
-Prototype one of the following projects:
-
-## Product App ##
-Create a single page web app which list all the products (mobile phones)  & allows to sort by category (brand wise). 
+## Functional Specs - Product App ##
+Create a single page web app which list all the products (mobile phones) & allows to sort by category (brand wise). 
 
 Data Set: Use any openly available data. 
 
